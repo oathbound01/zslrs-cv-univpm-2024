@@ -1,2 +1,3 @@
-# zslrs-cv-univpm-2024
-Zero Shot Learning for Remote Sensing projecy - Computer Vision and Deep Learning, UNIVPM (2024)
+# Zero Shot Learning for Remote Sensing Images
+
+Based on the work hosted [here](https://github.com/arampacha/CLIP-rsicd)
